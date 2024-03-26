@@ -1,4 +1,4 @@
-Certainly! Below is a GitHub README.md template based on the provided instructions for preparing data, setting up a GPU environment, loading datasets, loading the base model, tokenization, setting up LoRA (Low-Rank Adaptation), running training, and trying out the trained model:
+
 
 ```markdown
 # Phi-2 Journal Fine-tuning with QLoRA
