@@ -11,7 +11,7 @@ Phi-2 Journal Fine-tuning with QLoRA is a project aimed at leveraging advanced n
 
 The LoRA method proposed by Hu et al. replaces to decompose the weight changes, ΔW, into a lower-rank representation. To be precise, it does not require to explicitly compute ΔW. Instead, LoRA learns the decomposed representation of ΔW directly during training which is where the savings are coming from, as shown in the figure below.
 
-![QLora Workflow](QLora.png)
+![QLora Workflow](QLoRa.png)
 
 ## Table of Contents
 
