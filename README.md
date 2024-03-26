@@ -1,4 +1,4 @@
-# Phi-2 Journal Fine-tuning with QLoRA
+# Phi-2 Fine-tuning with QLoRA
 
 This repository contains the code and instructions for fine-tuning the Phi-2 language model using QLoRA (Quantization-Based Low-Rank Adaptation) for generating journal entries based on personal notes.
 
