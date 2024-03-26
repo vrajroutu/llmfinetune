@@ -6,6 +6,13 @@ This repository contains the code and instructions for fine-tuning the Phi-2 lan
 
 Phi-2 Journal Fine-tuning with QLoRA is a project aimed at leveraging advanced natural language processing techniques to generate journal entries based on personal notes. By fine-tuning the Phi-2 language model with QLoRA, we aim to create a model that can understand the context of personal notes and generate meaningful journal entries.
 
+
+## QLora Flow
+
+The LoRA method proposed by Hu et al. replaces to decompose the weight changes, ΔW, into a lower-rank representation. To be precise, it does not require to explicitly compute ΔW. Instead, LoRA learns the decomposed representation of ΔW directly during training which is where the savings are coming from, as shown in the figure below.
+
+![QLora Workflow](QLora.png)
+
 ## Table of Contents
 
 1. [Preparing Data](#1-preparing-data)
