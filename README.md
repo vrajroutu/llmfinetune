@@ -39,9 +39,3 @@ Load the trained model from the best performing checkpoint directory. Test the m
 
 ---
 
-**Note**: Adjust the configurations and parameters according to your specific dataset and requirements. Experiment with different settings to achieve optimal performance and desired outputs.
-
-For detailed instructions and code implementation, refer to the provided Python notebook and associated scripts.
-```
-
-Feel free to customize this README template further to include specific details about your project or any additional information you find relevant.
